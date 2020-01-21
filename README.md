@@ -5,3 +5,5 @@
 
 #### The project uses clarifai api for face detection
 
+ DEMO [https://glacial-dusk-96205.herokuapp.com/]
+
