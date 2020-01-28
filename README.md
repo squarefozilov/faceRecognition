@@ -32,7 +32,6 @@ Install NPM packages
 ```sh
 npm install
 ```
-## Product features ones the user puts URL of the image the app shows face.
+## Product features ones the user puts URL of the image the app shows faces.
 ![Homepage](./public/Untitled.jpg)
-
-![Homepage](./public/Untitled.jpg)
+ 
